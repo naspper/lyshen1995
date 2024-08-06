@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master course student from the Department of System Innovations, Faculty of Engineering, the University of Tokyo. My research interests are Recycling, SDGs and Supply Chain.
+I am a first-year master course student from the Department of System Innovations, School of Engineering, The University of Tokyo. My research interests are Recycling, SDGs and Supply Chain.
 
-I am very fortunate to be advised by Prof. Yutaro TAKAYA of TOKORO-TAKAYA Lab from Faculty of Engineering, the University of Tokyo. 
+I am very fortunate to be advised by Prof. Yutaro TAKAYA of TOKORO-TAKAYA Lab from School of Engineering, The University of Tokyo. 
 
 You can find my CV here: [English Version]() [日本語](../lyshen1995/assets/CV-JapaneseUpdate.pdf)
 
