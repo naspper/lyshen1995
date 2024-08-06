@@ -11,7 +11,7 @@ I am a frist-year master course student from the Department of System Innovation
 
 I am very fortunate to be advised by Prof. Yutaro TAKAYA of TOKORO-TAKAYA Lab from Faculty of Engineering, the University of Tokyo. 
 
-You can find my CV here: [English Version]() [日本語]()
+You can find my CV here: [English Version]() [日本語](../assets/CV - JapaneseUpdate.pdf)
 
 [Email](mailto:815152915@qq.com)/[github](https://naspper.github.io/lyshen1995)/[Wechat]
 
