@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : SHEN Luyao
+title                    : "SHEN Luyao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : SHEN Luyao
+  name             : "SHEN Luyao"
   pronouns         : 
   bio              : "Student in The University of Tokyo"
   location         : "Tokyo"
