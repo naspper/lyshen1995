@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a frist-year master course student from the Department of System Innovations, Faculty of Engineering, the University of Tokyo. My research interests are Recycling, SDGs and Supply Chain.
+I am a first-year master course student from the Department of System Innovations, Faculty of Engineering, the University of Tokyo. My research interests are Recycling, SDGs and Supply Chain.
 
 I am very fortunate to be advised by Prof. Yutaro TAKAYA of TOKORO-TAKAYA Lab from Faculty of Engineering, the University of Tokyo. 
 
