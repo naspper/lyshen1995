@@ -13,7 +13,7 @@ I am very fortunate to be advised by Prof. Yutaro TAKAYA of TOKORO-TAKAYA Lab fr
 
 You can find my CV here: [English Version]() [日本語]()
 
-[Email](mailto:815152915@qq.com)/[github](naspper.github.io/lyshen1995)/[Wechat]
+[Email](mailto:815152915@qq.com)/[github](https://naspper.github.io/lyshen1995)/[Wechat]
 
 A data-driven personal website
 ======
